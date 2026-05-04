@@ -1,0 +1,6 @@
+logs/
+sftp.key
+config.json
+cache/
+servers/
+*.log
